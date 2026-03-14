@@ -6,6 +6,9 @@
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6470710405)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/pi0Qwr0LTbI/0.jpg)](https://www.youtube.com/watch?v=pi0Qwr0LTbI)
+
 ## 🌟 How it Works
 1. **Touch:** Every participant places one finger on the screen simultaneously.
 2. **Track:** Dynamic circular markers appear under each finger.
